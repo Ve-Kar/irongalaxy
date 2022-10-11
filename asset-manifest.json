@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/irongalaxy/static/css/main.e4af62b1.css",
+    "main.js": "/irongalaxy/static/js/main.42cd8c9c.js",
+    "static/media/Slim Play.woff": "/irongalaxy/static/media/Slim Play.ac815a409681c799d576.woff",
+    "index.html": "/irongalaxy/index.html",
+    "main.e4af62b1.css.map": "/irongalaxy/static/css/main.e4af62b1.css.map",
+    "main.42cd8c9c.js.map": "/irongalaxy/static/js/main.42cd8c9c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4af62b1.css",
+    "static/js/main.42cd8c9c.js"
+  ]
+}
