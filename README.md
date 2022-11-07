@@ -1,4 +1,5 @@
 Application with Robo cards each with different content, including search box filtering the cards according to information typed in. 
+
 Technologies used: HTML, CSS/Tachyons, Java Script, React 18
 
 # Getting Started with Create React App
